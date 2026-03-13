@@ -4,7 +4,7 @@
 
 ## 🎯 项目简介
 
-支持TXT文本、SRT字幕、MTool导出的游戏文本、XUnity.AutoTranslator缓存的游戏文本、Translator++导出的Excel游戏文本的批量自动化 **免费** 翻译器！
+支持TXT文本文件、SRT字幕文件、MTool导出的JSON游戏文本文件、XUnity.AutoTranslator缓存的TXT游戏文本文件、Translator++导出的Excel游戏文本文件的批量自动化 **免费** 翻译器！
 -  TXT文本：文件类型为 .txt 的纯文本文件，比如小说。
 -  SRT字幕：文件类型为 .srt 的标准字幕文件。
 -  MTool导出的游戏文本：MTool是一款支持多种RPG引擎游戏的翻译工具，通过它可以导出游戏文本，翻译后也可通过它将译文导回游戏中。[了解 MTool](https://mtool.app/)
